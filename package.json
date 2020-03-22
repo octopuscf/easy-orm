@@ -1,0 +1,30 @@
+{
+  "name": "easy-orm",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Easy to use ORM",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octopuscf/easy-orm.git"
+  },
+  "keywords": [
+    "easy",
+    "easy-to-use",
+    "mysql",
+    "mysql-orm",
+    "orm"
+  ],
+  "author": {
+    "name": "Javelin",
+    "email": "mr.zalyotin@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octopuscf/easy-orm/issues"
+  },
+  "homepage": "https://github.com/octopuscf/easy-orm#readme"
+}
